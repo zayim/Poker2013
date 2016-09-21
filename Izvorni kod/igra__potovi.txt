@@ -1,0 +1,9 @@
+CHECK 0
+Broj potova: 1
+d[0]=0; 
+------------
+Pot 0
+Moze
+-0
+- potovi(i)->ulozi(ind) (before): 750
+- potovi(i)->ulozi(ind) (after): 750
